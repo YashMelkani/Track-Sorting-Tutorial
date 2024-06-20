@@ -1,0 +1,2 @@
+# Track Sorting Tutorial
+This repository contains a tutorial on how to use a trained transformer model to sort detector hits from pairs of particle tracks. Scripts for training and data preparation will be added in the future. Track data is taken from the Kaggle TrackML challenge.
